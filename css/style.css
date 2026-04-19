@@ -1,0 +1,6 @@
+:root { --azul: #00f2ff; --preto: #0a0a0b; --branco: #ffffff; }
+body { background: var(--preto); color: var(--branco); font-family: sans-serif; margin: 0; }
+.container { padding: 80px 10%; text-align: center; }
+.nome-completo { color: var(--azul); font-size: 1.2rem; letter-spacing: 2px; }
+h1 { font-size: 3rem; text-transform: uppercase; }
+.btn { background: var(--azul); color: black; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 50px; display: inline-block; margin-top: 20px; }
